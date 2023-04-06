@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Vilte</h1>
-<h3 align="center">Soy un apasionado de la programación con experiencia en proyectos de análisis de datos y desarrollo de aplicaciones web</h3>
+<h3 align="center">Soy un apasionado de la programación con experiencia en proyectos de ingenieria de datos y desarrollo de aplicaciones web</h3>
 
 - 📫 How to reach me **viltetomas2003@gmail.com**
 
