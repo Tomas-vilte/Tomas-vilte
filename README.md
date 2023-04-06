@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas Vilte</h1>
-<h3 align="center">Soy un apasionado de la programación con experiencia en proyectos de ingenieria de datos y desarrollo de aplicaciones web</h3>
+<h3 align="center">I am passionate about programming with experience in data engineering projects and web application development</h3>
 
 - 📫 How to reach me **viltetomas2003@gmail.com**
 
-- 📄 He realizado proyectos tanto en el área de Data & Analytics como en el desarrollo web, lo que me ha permitido tener una visión integral en la implementación de soluciones tecnológicas. Siempre estoy en busca de nuevos desafíos para seguir creciendo como profesional. He realizado proyectos tanto en el área de Data & Analytics como en el desarrollo web, lo que me ha permitido tener una visión integral en la implementación de soluciones tecnológicas. Siempre estoy en busca de nuevos desafíos para seguir creciendo como profesional
+- 📄 He carried out projects both in the Data & Analytics area and in web development, which has allowed me to have a comprehensive vision in the implementation of technological solutions. I am always looking for new challenges to continue growing as a professional. He carried out projects both in the Data & Analytics area and in web development, which has allowed me to have a comprehensive vision in the implementation of technological solutions. I am always looking for new challenges to continue growing as a professional.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
