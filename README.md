@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **viltetomas2003@gmail.com**
 
-- 📄 He realizado proyectos tanto en el área de Data & Analytics como en el desarrollo web, lo que me ha permitido tener una visión integral en la implementación de soluciones tecnológicas. Siempre estoy en busca de nuevos desafíos para seguir creciendo como profesional](He realizado proyectos tanto en el área de Data & Analytics como en el desarrollo web, lo que me ha permitido tener una visión integral en la implementación de soluciones tecnológicas. Siempre estoy en busca de nuevos desafíos para seguir creciendo como profesional
+- 📄 He realizado proyectos tanto en el área de Data & Analytics como en el desarrollo web, lo que me ha permitido tener una visión integral en la implementación de soluciones tecnológicas. Siempre estoy en busca de nuevos desafíos para seguir creciendo como profesional. He realizado proyectos tanto en el área de Data & Analytics como en el desarrollo web, lo que me ha permitido tener una visión integral en la implementación de soluciones tecnológicas. Siempre estoy en busca de nuevos desafíos para seguir creciendo como profesional
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
