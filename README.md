@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **viltetomas2003@gmail.com**
 
-- 📄 He carried out projects both in the Data & Analytics area and in web development, which has allowed me to have a comprehensive vision in the implementation of technological solutions. I am always looking for new challenges to continue growing as a professional. He carried out projects both in the Data & Analytics area and in web development, which has allowed me to have a comprehensive vision in the implementation of technological solutions. I am always looking for new challenges to continue growing as a professional.
+- 📄 He carried out projects both in the Data & Analytics area and in web development, which has allowed me to have a comprehensive vision in the implementation of technological solutions. I am always looking for new challenges to continue growing as a professional. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
