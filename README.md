@@ -20,3 +20,13 @@
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://spark.apache.org/"><img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/> </a>
 <a href="https://airflow.apache.org/"><img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40"/> </a>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tomas-vilte&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tomas-vilte&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-vilte&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Tomas-vilte&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
