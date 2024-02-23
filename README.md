@@ -1,13 +1,13 @@
 <h1 align="center">¡Hola! Te cuento un poco sobre mí: </h1>
-<h3 align="center">Soy un entusiasta de la tecnología con un fuerte interés en el desarrollo backend y la ingeniería de datos. Me llamo Thomas y estoy entusiasmado por la chance de sumarme al éxito.</h3>
+<h3 align="center">Soy Thomas, un entusiasta de la tecnología con un fuerte interés en el desarrollo backend y la ingeniería de datos. Estoy emocionado por la oportunidad de contribuir al éxito. </h3>
 
-- 📫 How to reach me **viltetomas2003@gmail.com**
+- 📫 Pueden contactarme en **viltetomas2003@gmail.com**
 
-- 💼 Aunque mi trayectoria en el mundo de la tecnología puede ser un poco distinta, encontré mi vocación explorando por mi cuenta distintos lenguajes y tecnologías. Tengo experiencia en el desarrollo backend usando Java y Spring Boot, así como en Golang y Gin para armar aplicaciones robustas y escalables.
+- 💼 Aunque mi trayectoria en tecnología es un poco distinta, descubrí mi pasión explorando diferentes lenguajes y tecnologías por mi cuenta. Tengo experiencia en desarrollo backend utilizando Java y Spring Boot, así como en Golang y Gin para crear aplicaciones robustas y escalables.
+  
+- 📊 En el campo de la ingeniería de datos, he trabajado con tecnologías como Apache Spark para el procesamiento de datos a gran escala, Airflow para la orquestación de pipelines, Kafka para la transmisión de datos en tiempo real y DBT para transformaciones de datos en SQL.
 
-- 📊 En lo que respecta a la ingeniería de datos, tuve la oportunidad de trabajar con tecnologías como Apache Spark para procesamiento de datos a gran escala, Airflow para la orquestación de pipelines, Kafka para la transmisión de datos en tiempo real y DBT para transformaciones de datos en SQL.
-
-- 🌟 Lo que me destaca es mi enfoque proactivo y mi sed de conocimiento. Siempre estoy buscando nuevas formas de superarme y ampliar mis habilidades técnicas para poder enfrentar cualquier desafío que se presente.
+- 🌟 Lo que me destaca es mi enfoque proactivo y mi deseo constante de aprender. Siempre estoy buscando nuevas formas de superarme y ampliar mis habilidades técnicas para enfrentar cualquier desafío que se presente.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
