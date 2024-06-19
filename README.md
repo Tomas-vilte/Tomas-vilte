@@ -3,7 +3,7 @@
 
 - 📫 Pueden contactarme en **viltetomas2003@gmail.com**
 
-- 💼 Aunque mi trayectoria en tecnología es un poco distinta, descubrí mi pasión explorando diferentes lenguajes y tecnologías por mi cuenta. Tengo experiencia en desarrollo backend utilizando Java y Spring Boot, así como en Golang y Gin para crear aplicaciones robustas y escalables.
+- 💼 Aunque mi trayectoria en tecnología es un poco distinta, descubrí mi pasión explorando diferentes lenguajes y tecnologías por mi cuenta. Tengo experiencia en desarrollo backend utilizando Golang y Gin para crear aplicaciones robustas y escalables. Ademas de que toque un poco de Java con Spring Boot
   
 - 📊 En el campo de la ingeniería de datos, he trabajado con tecnologías como Apache Spark para el procesamiento de datos a gran escala, Airflow para la orquestación de pipelines, Kafka para la transmisión de datos en tiempo real y DBT para transformaciones de datos en SQL.
 
