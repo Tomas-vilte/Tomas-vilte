@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Tomás 👋</h1>
+<h1 align="center">¡Hola! Soy Thomas 👋</h1>
 <h3 align="center">Backend developer curioso, autodidacta y fanático de las buenas prácticas. Me encanta meterme en proyectos desafiantes y aprender algo nuevo en el camino.</h3>
 
 - 📫 **viltetomas2003@gmail.com**  
