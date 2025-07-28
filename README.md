@@ -1,50 +1,81 @@
-<h1 align="center">¡Hola! Soy Thomas 👋</h1>
-<h3 align="center">Backend developer curioso, autodidacta y fanático de las buenas prácticas. Me encanta meterme en proyectos desafiantes y aprender algo nuevo en el camino.</h3>
+# ¡Hola! Soy Thomas
 
-- 📫 **viltetomas2003@gmail.com**  
+Soy backend developer, autodidacta, curioso, y bastante hincha con las buenas prácticas. Me gusta meterme en proyectos donde haya quilombo para resolver, aprender cosas nuevas en el camino, y dejar todo más ordenado de lo que estaba.
 
-- 💻 En el backend, trabajo principalmente con **Golang** usando **Gin** para armar APIs rápidas y robustas. También pasé por **Java** con **Spring Boot**, donde aprendí a lidiar con aplicaciones más grandes y estructuradas.  
+### Un poco sobre mí
 
-- 🛠️ Uso herramientas como **Docker** y **Kubernetes** para desplegar y gestionar aplicaciones, tanto en entornos locales como en **AWS**. He trabajado con servicios como **ECS**, **S3**, y **RDS** para que todo funcione de manera escalable y eficiente.  
+- 📫 **viltetomas2003@gmail.com**
 
-- 📊 También le dediqué tiempo a integrar tecnologías como **Kafka** (para transmitir datos en tiempo real), **Airflow** (para orquestar procesos), y bases de datos como **MongoDB** y **PostgreSQL**.  
+- Trabajo principalmente con **Golang**, armando APIs limpias, rápidas y fáciles de mantener.  
+  También usé bastante **Python**, sobre todo para tareas relacionadas al manejo de datos, automatizaciones y procesamiento.
 
-- 🌟 Me destaco por mi curiosidad y mi enfoque autodidacta. Siempre estoy probando nuevas herramientas o buscando formas de mejorar lo que hago.  
+- Toqué **Java con Spring Boot** en un proyecto, lo suficiente para entender cómo se estructuran aplicaciones más grandes, aunque hoy mi foco está en Go y Python.
 
-<h3 align="left">¿Querés contactarme? Estoy acá:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/thomas-ezequiel-vilte-762276217/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+- Me siento cómodo usando **Docker** y tengo experiencia desplegando en **AWS** (ECS, Lambda, RDS, S3).  
+  Usé **Kubernetes** en local para entender su funcionamiento básico, pero todavía no lo usé en producción.
 
-<h3 align="left">Tecnologías y herramientas que uso:</h3>
-<p align="left"> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark" width="40" height="40" />
-  </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="Airflow" width="40" height="40" />
-  </a>
-</p>
+- Trabajé con **Kafka** y **SQS** para mensajería, y con bases como **PostgreSQL**, **MongoDB** y **DynamoDB**, eligiendo según el caso.
+
+- También me enfoco bastante en la observabilidad: uso **OpenTelemetry Collector**, **Prometheus**, **Grafana**, y **CloudWatch** para monitorear y entender qué está pasando en tiempo real.
+
+---
+
+### Lo que estoy haciendo ahora
+
+Actualmente estoy 100% metido en el desarrollo de **Butakero**, un bot de música para Discord escrito en **Go**, que ya está en producción y siendo usado por más de **700 servidores** (guilds).
+
+El bot tiene una arquitectura **monolítica bien organizada**, desplegado en **AWS ECS Fargate**, y lo fui puliendo para que sea escalable, observable y fácil de mantener.
+
+Uso **DynamoDB** como base principal, **OpenSearch** para autocompletado y sugerencias, y **AWS Lambda** para mantenerlos sincronizados.  
+Los archivos de audio los manejo en **S3**, y todo el monitoreo pasa por **OpenTelemetry**, **Prometheus**, **CloudWatch** y **Grafana**.
+
+Sigo trabajando en nuevas features, mejoras de rendimiento, y todo lo relacionado al crecimiento del bot (incluyendo membresías premium y publicación en [top.gg](https://top.gg/bot/987850036866084974)).
+
+---
+
+### Proyectos destacados
+
+**Butakero Music Bot**  
+Bot de música para Discord con más de 700 guilds activas. Escrito en Go con arquitectura monolítica, desplegado en AWS.  
+Usa DynamoDB, OpenSearch, Lambda, S3, y tiene un stack completo de observabilidad.  
+Implementé manejo propio de audio, búsqueda avanzada
+
+---
+
+### Cómo trabajo
+
+- Me gusta dejar el código mejor de lo que lo encontré  
+- Prefiero lo simple y mantenible antes que lo complejo  
+- Valoro la comunicación clara en el equipo tanto como el código bien hecho  
+
+---
+
+### En qué estoy metido ahora
+
+- Diseñando y manteniendo sistemas reales en producción  
+- Aprendiendo más sobre profiling y performance en Go  
+- Explorando nuevas formas de escalar el bot sin perder calidad  
+
+---
+
+### ¿Querés contactarme?
+
+- [LinkedIn](https://www.linkedin.com/in/thomas-ezequiel-vilte-762276217/)  
+- **Mail:** viltetomas2003@gmail.com  
+
+---
+
+### Tecnologías y herramientas
+
+- **Lenguajes:** Golang, Python, Java  
+- **Frameworks:** Gin, (Spring Boot en un proyecto puntual)  
+- **Infra y DevOps:** Docker, AWS (ECS, Lambda, RDS, S3)  
+- **Bases de datos:** DynamoDB, PostgreSQL, MongoDB  
+- **Mensajería y eventos:** Kafka, SQS  
+- **Búsqueda y sugerencias:** OpenSearch  
+- **Observabilidad:** Prometheus, Grafana, CloudWatch, OpenTelemetry Collector  
+- **Otros:** Git, GitHub Actions, CI/CD, testing, arquitectura monolítica escalable  
+
+---
+
+> Estoy abierto a oportunidades como backend developer o roles donde pueda aportar desde el diseño, la arquitectura y el trabajo en producción. Me interesa trabajar en equipos que valoren el código limpio, el aprendizaje constante y construir cosas que realmente funcionen.
