@@ -69,7 +69,7 @@ Implementé un pipeline de audio propio optimizado para concurrencia.
 ### ¿Querés contactarme?
 
 - [LinkedIn](https://www.linkedin.com/in/thomas-ezequiel-vilte-762276217/)  
-- [Mail](viltetomas2003@gmail.com)  
+- **Mail:** viltetomas2003@gmail.com 
 
 ---
 
